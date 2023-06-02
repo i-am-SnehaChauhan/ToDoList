@@ -12,25 +12,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></p>
 
-<h3>Features and Description</h3>
+<h3 align='center'>Features and Description</h3>
 <p>The Todo-App's features include:</p>
 <p>
-<h4>Adding Tasks</h4>
+<h4 align='center'>Adding Tasks</h4>
 //image1
 </p>
 <p>
-<h4>Editing Tasks</h4>
+<h4 align='center'>Editing Tasks</h4>
 
 //image2
 </p>
 <p>
-<h4>Marking Tasks as completed</h4>
+<h4 align='center'>Marking Tasks as completed</h4>
 
 image 3
 </p>
 <p>
 
-<h4>User Friendly UI</h4>
+<h4 align='center'>User Friendly UI</h4>
 
 //image 4
 </p>
