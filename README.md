@@ -14,21 +14,21 @@
 
 <h3 align='center'>Features and Description</h3>
 <p align='center>The Todo-App's features include:</p>
-<p align='center>
+<p >
 <h4 align='center'>Adding Tasks</h4>
 //image1
 </p>
-<p align='center>
+<p>
 <h4 align='center'>Editing Tasks</h4>
 
 //image2
-</p align='center>
+</p >
 <p>
 <h4 align='center'>Marking Tasks as completed</h4>
 
 image 3
 </p>
-<p align='center>
+<p>
 
 <h4 align='center'>User Friendly UI</h4>
 
