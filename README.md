@@ -13,22 +13,22 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></p>
 
 <h3 align='center'>Features and Description</h3>
-<p>The Todo-App's features include:</p>
-<p>
+<p align='center>The Todo-App's features include:</p>
+<p align='center>
 <h4 align='center'>Adding Tasks</h4>
 //image1
 </p>
-<p>
+<p align='center>
 <h4 align='center'>Editing Tasks</h4>
 
 //image2
-</p>
+</p align='center>
 <p>
 <h4 align='center'>Marking Tasks as completed</h4>
 
 image 3
 </p>
-<p>
+<p align='center>
 
 <h4 align='center'>User Friendly UI</h4>
 
