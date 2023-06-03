@@ -16,7 +16,7 @@
 <p align='center>The Todo-App's features include:</p>
 <p >
 <h4 align='center'>Adding Tasks</h4>
-//image1
+
 </p>
 <p>
 <h4 align='center'>Editing Tasks</h4>
